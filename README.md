@@ -11,6 +11,7 @@ Para el SSTree, ejecutar en el archivo main.py.
 Mostramos la grafica de resultados para el total de puntos de 100000.
 
 Temporal: SSTree para 100000 datos:
+
 ![image](https://github.com/DarKNeSsJuaN25/Rtree-SSTree/assets/68095284/c6257635-3240-491d-b09d-4026774639ff)
 
 
