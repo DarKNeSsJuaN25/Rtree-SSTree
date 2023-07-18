@@ -8,7 +8,7 @@ def main():
     M = 50
     k = 5
     max_dimensions = 10
-    num_data = 100000
+    num_data = 1000000
 
     # Generar datos aleatorios
     data = np.random.rand(num_data, max_dimensions)

@@ -15,6 +15,12 @@ Temporal: SSTree para 100000 datos:
 ![image](https://github.com/DarKNeSsJuaN25/Rtree-SSTree/assets/68095284/c6257635-3240-491d-b09d-4026774639ff)
 
 
+Temporal: SSTree para 1000000 datos:
+
+![image](https://github.com/DarKNeSsJuaN25/Rtree-SSTree/assets/68095284/c6257635-3240-491d-b09d-4026774639ff)
+
+
+
 
 ## Explicacion
 El RTree es una estructura de datos espaciales que está diseñada para manejar eficientemente consultas en espacios multidimensionales. Utiliza técnicas de particionamiento espacial para organizar los datos y reducir el número de accesos necesarios durante las búsquedas.
