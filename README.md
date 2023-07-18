@@ -17,7 +17,7 @@ Temporal: SSTree para 100000 datos:
 
 Temporal: SSTree para 1000000 datos:
 
-<image src="1millonSStree.png">
+![image](https://github.com/DarKNeSsJuaN25/Rtree-SSTree/blob/main/1millosSStree.png)
 
 
 Temporal: RTree para 1000000 datos:
