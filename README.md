@@ -1,6 +1,6 @@
-# Comparacion en tiempo de busqueda del SSTree y RTree
+# Comparación en tiempo de busqueda del SSTree y RTree
 
-## Compilacion
+## Compilación
 ### RTree 
 Para el RTree, ejecutar en el archivo rtree.cpp: `g++ rtree.cpp -o a -lSDL2` y luego `./a`.
 ### SSTree
@@ -24,8 +24,13 @@ Temporal: RTree para 1000000 datos:
 
 ![image](https://github.com/DarKNeSsJuaN25/Rtree-SSTree/blob/main/1millonRtree.png)
 
+## Comparación
+RTree vs SSTree
 
-## Explicacion
+![image](https://github.com/DarKNeSsJuaN25/Rtree-SSTree/blob/main/RTreevsSSTree.png)
+
+
+## Explicación
 El RTree es una estructura de datos espaciales que está diseñada para manejar eficientemente consultas en espacios multidimensionales. Utiliza técnicas de particionamiento espacial para organizar los datos y reducir el número de accesos necesarios durante las búsquedas.
 
 Sin embargo, a medida que aumenta el número de dimensiones, el espacio de búsqueda se vuelve más disperso y el efecto del llamado "curse of dimensionality" se vuelve más pronunciado. El "curse of dimensionality" se refiere al fenómeno de que, en espacios de alta dimensionalidad, la mayoría de los puntos están muy lejos unos de otros, lo que dificulta la identificación de los vecinos más cercanos.
